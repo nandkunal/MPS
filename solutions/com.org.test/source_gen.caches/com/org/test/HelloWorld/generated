@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="99uw5afu3o6917ary3pgqnwy1zmvef4">
+<dependencies version="2" modelHash="-bpmd75na8d3q8vuqecgsg71pfq9ubfa">
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" hash="b4ewbuz42qcbg1awca5bacgi0vopxqt" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" hash="a8elw7fctzg6sg8fe36u9gzu42axhdb" />
   <common hash="-alm8csfh5h925x1xxo5n0enmoq1jih" dependsOnNodes="true">
     <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
   </common>
-  <source id="5858044784711785886" name="HelloWorld" hash="-2ejwwpsk08y3iv3mc3xzqczoarawv9s">
+  <source id="5858044784711785886" name="HelloWorld" hash="8zmpp9023fm96lnp8suzk9pijc0xqc6">
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="HelloWorld.java" />
   </source>
 </dependencies>

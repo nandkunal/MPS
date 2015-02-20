@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
-  <dependency className="com.org.test.HelloWorld.HelloWorld" file="HelloWorld.java" />
+  <dependency className="com.org.test.HelloWorld.HelloWorld" file="HelloWorld.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
 </dependenciesRoot>
 
