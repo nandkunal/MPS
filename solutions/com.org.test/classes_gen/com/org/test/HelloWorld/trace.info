@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeRef="r:f3155c8b-5801-41dc-8927-d5d5ee56ab27(com.org.test.HelloWorld)/5858044784711785886">
+    <nodeInfo nodeId="5858044784711785999" fileName="HelloWorld.java" startLine="9" startPosition="0" endLine="11" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="HelloWorld#()V" />
+    <scopeInfo nodeId="5858044784711786002" fileName="HelloWorld.java" startLine="9" startPosition="23" endLine="9" endPosition="23" />
+    <scopeInfo nodeId="5858044784711785999" fileName="HelloWorld.java" startLine="9" startPosition="0" endLine="11" endPosition="0" />
+    <unitInfo nodeId="5858044784711785886" fileName="HelloWorld.java" startLine="6" startPosition="0" endLine="12" endPosition="0" unitName="com.org.test.HelloWorld.HelloWorld" />
+  </root>
+</debugInfo>
+
