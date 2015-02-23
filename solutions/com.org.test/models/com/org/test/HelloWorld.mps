@@ -27,6 +27,12 @@
             <property name="value" nameId="tpee.1070475926801" value="Test Checkin" />
           </node>
         </node>
+        <node role="statement" roleId="tpee.1068581517665" type="tpib.LogStatement" typeId="tpib.1167227138527" id="589521152937879471" nodeInfo="nn">
+          <property name="severity" nameId="tpib.1167245565795" value="info" />
+          <node role="logExpression" roleId="tpib.1167227463056" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="589521152937879473" nodeInfo="nn">
+            <property name="value" nameId="tpee.1070475926801" value="Checkin by Lokesh" />
+          </node>
+        </node>
       </node>
       <node role="visibility" roleId="tpee.1178549979242" type="tpee.PublicVisibility" typeId="tpee.1146644602865" id="5858044784711785986" nodeInfo="nn" />
     </node>
